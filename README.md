@@ -1,7 +1,6 @@
 # simple-tlv
 `简化版`tlv结构的编码解码功能，提供简单的TLV编解码，满足自己传输数据时需要使用TLV编码的需求
 
-# simple-tlv
 
 ```go
 import tlv "github.com/yzw-trt/simple-tlv"
